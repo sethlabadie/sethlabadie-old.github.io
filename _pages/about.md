@@ -17,16 +17,13 @@ I continue to self-study everything I can about Python, visualization, databases
 I am interested in the intersection of Data Science and Intelligence, and how the two can be used to better inform decision makers. I am also interested in the ethical implications of Data Science and how to ensure that Data Science is used for good.
 
 ## My work and research
-I use qualitative, quantitative, and computational methods to investigate intelligence problems, improve them, and build tools to help analysis. Most of my work is in the areas of intelligence analysis, data science, and data-intensive social science. Most of my work is on private networks, but I conduct personal projects, some of which I post on my [GitHub](https://www.github.com/sethlabadie) account.
+I use qualitative, quantitative, and computational methods to investigate intelligence problems, improve them, and build tools to help analysis. Most of my work is in the areas of intelligence analysis, data science, and data-intensive social science. Most of my work is on private networks, but I also conduct personal projects, some of which I post on my [GitHub](https://www.github.com/sethlabadie) account.
+
+I am an interdisciplinary nomad, integrating disciplines like Data Science, computer science, information science, international relations, security studies, economics, organization/management science, decision analysis, and intelligence studies. My background is in international relations, security studies, finance, and intelligence, but most of my recent experience is in Data Science. I expect to continue blending these disciplines in my future work.
 
 ## My background and history
-I received an MSSI (Strategic Intelligence) from the [National Intelligence University](https://www.ni-u.edu), an MSA (Accountancy) from [San Jose State University](https://www.sjsu.edu), and a BA (Political Science / International Relations) from the [University of California, Los Angeles (UCLA)](https://www.ucla.edu). I am currently studying Cloud Computing at [Northern Virginia Community College](https://www.nvcc.edu).
-
-```
-## My intellectual communities
-I’m a disciplinary nomad, integrating disciplines like computer science, information science, social psychology, and organization/management science with fields like philosophy, sociology, anthropology, and history of science and technology. In terms of academic specialties, I spend a lot of my time in the fields of Science and Technology Studies, Computer-Supported Cooperative Work, and new media / internet studies. Methodologically, while I am trained as a qualitative ethnographer, I also rely on other qualitative, quantitative, and computational methods. I often use more statistical forms of analysis to contextualize and further support more qualitative approaches, frequently collaborating with people from other disciplines. I frequently speak at conferences and events, and I also consult with various groups, organizations, and companies about a wide range of topics.
-```
+I received an MSSI (Strategic Intelligence) from the [National Intelligence University](https://www.ni-u.edu), an MSA (Accountancy) from [San Jose State University](https://www.sjsu.edu), and a BA (Political Science / International Relations) from the [University of California, Los Angeles (UCLA)](https://www.ucla.edu). I am currently studying Cloud Computing at [Northern Virginia Community College](https://www.nvcc.edu) to increase my technical knowledge.
 
 For more info
 ------
-More info about me can be found on my [GitHub](https://www.github.com/sethlabadie) page.
+More info about me can be found on my [LinkedIn](https://www.linkedin.com/in/sethlabadie) or [GitHub](https://www.github.com/sethlabadie) pages.
