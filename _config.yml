@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Seth Labadie / Personal Website"
+title                    : "Seth Labadie"
 title_separator          : "-"
 name                     : &name "Seth Labadie"
 description              : &description "Data Scientist"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter "sethlabadie"
 facebook:
   username               :
   app_id                 :
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Seth Labadie"
   avatar           : "profile.png"
-  bio              : "I am a Data Scientist living in Arlington, VA. I am currently working at NNData as a contractor for the Office of Naval Intelligence (ONI). I am also studying Cloud Engineering at a local community college. My research interests include Python, machine learning, natural language processing, and data visualization."
+  bio              : "Data Scientist"
   location         : "Arlington, VA / Washington, DC"
   employer         : #"NNData"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
