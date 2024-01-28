@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Seth Labadie / Site Title"
+title                    : "Seth Labadie / Personal Website"
 title_separator          : "-"
 name                     : &name "Seth Labadie"
-description              : &description "personal description"
+description              : &description "Data Scientist"
 url                      : https://sethlabadie.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sethlabadie/sethlabadie.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Seth Labadie"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "I am a Data Scientist living in Arlington, VA. I am currently working at NNData as a contractor for the Office of Naval Intelligence (ONI). I am also studying Cloud Engineering at a local community college. My research interests include Python, machine learning, natural language processing, and data visualization."
   location         : "Arlington, VA / Washington, DC"
-  employer         : "NNData"
+  employer         : #"NNData"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "sethlabadie"
+  email            : "sethlabadie@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "sethlabadie"
   vine             :
   weibo            :
   xing             :
@@ -125,7 +125,9 @@ include:
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
-  - .asset-cache
+  - "*.code-project"
+  - "*.code-workspace"
+    - .asset-cache
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
@@ -255,7 +257,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
